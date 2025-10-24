@@ -1,7 +1,7 @@
 ## Project Structure
 - main: Branch for production.
 - dev: Development branch.
-- feature-* : Feature branch for new updates.
+- feature-login : Feature branch for new updates.
 
 ## Git Commands Used
 git init
