@@ -1,13 +1,22 @@
+1.Initialized Git Repository:
+Created a Git repo and pushed it to GitHub.
+
+2.Branching Setup:
+Created and managed branches — main for production, dev for development, and feature-login for new feature updates.
+
+3.Feature Development:
+Implemented new feature changes in the feature-login branch and merged into dev using pull requests.
+
+4.Merging Workflow:
+After testing, merged dev into main through GitHub Pull Requests.
+
+5.Version Tagging:
+Created version tag v1.0 and pushed it to GitHub.
+
+6.Documentation:
+Added .gitignore and README.md for clean project structure and documentation.
+
 ## Project Structure
 - main: Branch for production.
 - dev: Development branch.
 - feature-login : Feature branch for new updates.
-
-## Git Commands Used
-git init
-git add .
-git commit -m "message"
-git branch dev
-git checkout dev
-git push origin dev
-git tag -a v1.0 -m "Version 1.0"
